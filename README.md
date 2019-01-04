@@ -1,3 +1,3 @@
 #Hello World!
 
-This is a testing reprository. WHY SO SERIOUS???
+This is a testing reprository. UwU.
